@@ -1,6 +1,8 @@
 from pyspark import SparkConf, SparkContext
 import collections
 
+# data from http://media.sundog-soft.com/es/ml-100k.zip
+
 conf = SparkConf().setMaster("local").setAppName("RatingsHistogram")
 sc = SparkContext(conf=conf)
 
