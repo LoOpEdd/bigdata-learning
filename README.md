@@ -1,6 +1,6 @@
 # Bigdata
 
-Just a repo to documetn my first steps into big data.
+Just a repo to document my first steps into big data.
 
 ## Notion file
 
